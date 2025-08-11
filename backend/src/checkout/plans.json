@@ -1,0 +1,38 @@
+{
+  "plans": [
+    {
+      "id": "prod_SqPj4EtNDbsMca",
+      "name": "Starter",
+      "price_text": "$9.99 / month",
+      "price_text_trial": "Start for just $1.99 - 7 days access, then $9.99 / month",
+      "trial_period_days": 7,
+      "price_id": "price_1RuiuFGTBncxZ1SrAzhqlfh1",
+      "trial_price_id": "price_1RuiuoGTBncxZ1SrJSIzPNJR",
+      "interval": "month",
+      "trial_interval": "week"
+    },
+    {
+      "id": "prod_SqPlFK8H9Ls7EE",
+      "name": "Pro",
+      "price_text": "$19.99 / month",
+      "price_text_trial": "Start for just $3.99 - 7 days access, then $19.99 / month",
+      "trial_period_days": 7,
+      "price_id": "price_1RuiwMGTBncxZ1SrgnVkxnR1",
+      "trial_price_id": "price_1RuiwyGTBncxZ1SrWNmwUfP2",
+      "interval": "month",
+      "trial_interval": "week",
+      "mostPopular": true
+    },
+    {
+      "id": "prod_SqPn9ZPAm4VzVY",
+      "name": "Ultimate",
+      "price_text": "$29.99 / month",
+      "price_text_trial": "Start for just $5.99 - 7 days access, then $29.99 / month",
+      "trial_period_days": 7,
+      "price_id": "price_1RuixiGTBncxZ1SrsCLVx38V",
+      "trial_price_id": "price_1RuiyDGTBncxZ1SrxfxR5GVT",
+      "interval": "month",
+      "trial_interval": "week"
+    }
+  ]
+}
